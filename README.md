@@ -43,10 +43,13 @@ Este é um simples aplicativo de criptografia e descriptografia de mensagens usa
 3. Para descriptografar uma mensagem, insira o texto criptografado na caixa "Texto criptado".
 4. Clique no botão "Descriptografar" para recuperar o texto original na caixa "Texto descriptografado".
 
+<p></p>
+
 ## 🗒️ Notas
 
-- Este é um projeto educacional destinado a demonstrar conceitos básicos de criptografia e criação de interfaces gráficas em Python.
-- **Atenção**: Este aplicativo utiliza uma chave de criptografia estática ('random'), o que não é seguro para uso em ambientes reais. Para maior segurança, utilize chaves verdadeiramente aleatórias e exclusivas para cada mensagem.
+>[!NOTE]
+> - Este é um projeto educacional destinado a demonstrar conceitos básicos de criptografia e criação de interfaces gráficas em Python.
+> - **Atenção**: Este aplicativo utiliza uma chave de criptografia estática ('random'), o que não é seguro para uso em ambientes reais. Para maior segurança, utilize chaves verdadeiramente aleatórias e exclusivas para cada mensagem.
 
 ## 🧑‍💻 Autor
 
