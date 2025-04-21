@@ -10,6 +10,7 @@ Este é um simples aplicativo de criptografia e descriptografia de mensagens usa
 - **Criptografia**: Insira um texto simples e clique no botão "Criptografar" para gerar a versão criptografada da mensagem.
 - **Descriptografia**: Insira o texto criptografado e clique no botão "Descriptografar" para recuperar o texto original.
 
+
 ## 🛠️ Requisitos
 
 - **Python 3.x**
